@@ -1,0 +1,8 @@
+F:\c#_test\puremvc-csharp-standard-framework-master\PureMVC.DotNET.2015.40.Tests\obj\Debug\PureMVC.DotNET.2015.40.Tests.csprojResolveAssemblyReference.cache
+F:\c#_test\puremvc-csharp-standard-framework-master\PureMVC.DotNET.2015.40.Tests\bin\Debug\PureMVC.DotNET.2015.40.Tests.dll
+F:\c#_test\puremvc-csharp-standard-framework-master\PureMVC.DotNET.2015.40.Tests\bin\Debug\PureMVC.DotNET.2015.40.Tests.pdb
+F:\c#_test\puremvc-csharp-standard-framework-master\PureMVC.DotNET.2015.40.Tests\bin\Debug\PureMVC.DotNET.40.dll
+F:\c#_test\puremvc-csharp-standard-framework-master\PureMVC.DotNET.2015.40.Tests\bin\Debug\PureMVC.DotNET.40.pdb
+F:\c#_test\puremvc-csharp-standard-framework-master\PureMVC.DotNET.2015.40.Tests\bin\Debug\PureMVC.DotNET.40.xml
+F:\c#_test\puremvc-csharp-standard-framework-master\PureMVC.DotNET.2015.40.Tests\obj\Debug\PureMVC.DotNET.2015.40.Tests.dll
+F:\c#_test\puremvc-csharp-standard-framework-master\PureMVC.DotNET.2015.40.Tests\obj\Debug\PureMVC.DotNET.2015.40.Tests.pdb
